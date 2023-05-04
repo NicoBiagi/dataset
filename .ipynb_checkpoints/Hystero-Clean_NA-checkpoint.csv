@@ -1,0 +1,805 @@
+Postmenopausal,History of Gyn Exams,Presurgical Analgesia,Cervix preparation,Number of Births,Previous pregnancy complications SPSS,Gynae Indication,BMI,Cervix,Endometrial biopsy,Hysteroscopy Indication,Anaesthetic used,Number of Polyps,Diagnosis based on hysteroscopy,Surgery Performed,Would you have hysteroscopy in outpatients again?,Was the comfort during hysteroscopy more or less than you expected?,Were you satisfied with the overall experience during the hysteroscopy?,Were you anxious / nervous about the hysteroscopy before you came today?,"Have you had a hysteroscopy under general anaesthetic (while asleep) or in outpatients (awake) before today?RECODED [1:YES, 2:NO, 3:MISSING/NA]","Did the written hysteroscopy information you received before today make you feel anxious, nervous or scared?",Doctor's Pain Assessment,Patient Pain Score,Smear Pain Score,Venesect Pain Score,PatientPainNew
+Yes,No,No,0,3,No,1,48.1,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Other,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Very nervous,2,NA,None,0,no_pain,no_pain,no_pain
+Yes,No,Yes,0,2,No,1,NA,not_stenosed,successful,Postmenopausal bleeding/discharge,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,0,mild,mild,no_pain
+No,No,No,0,1,Yes,1,36.6,not_stenosed,none,Premenopausal bleeding,none,1,Atrophic,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Not nervous,2,Did not receive,None,0,no_pain,mild,no_pain
+Yes,No,Yes,0,2,No,1,35.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Very nervous,None,0,mild,no_pain,no_pain
+No,Yes,Yes,0,3,No,1,30.1,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,0,moderate,mild,no_pain
+Yes,No,Yes,1,2,No,1,25.7,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,0,mild,no_pain,no_pain
+No,Yes,No,0,2,No,1,20.1,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,3,Did not receive,None,0,mild,mild,no_pain
+No,No,Yes,0,4,No,1,30.8,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,0,mild,moderate,no_pain
+Yes,No,No,0,2,No,1,33.7,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,0,no_pain,no_pain,no_pain
+No,No,Yes,0,3,No,1,31.1,not_stenosed,successful,Premenopausal bleeding,none,2,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,No,No,0,1,Yes,1,43.4,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,mild,mild,no_pain
+No,No,No,0,2,No,1,28.5,stenosed,successful,Premenopausal bleeding,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Very satisfied,Very nervous,2,Very nervous,None,0,no_pain,no_pain,no_pain
+No,No,No,0,NA,No,1,33,not_stenosed,successful,Premenopausal bleeding,2 ampules,2,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,0,mild,mild,no_pain
+No,No,Yes,0,NA,No,1,38,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,No,No,0,NA,No,1,22,not_stenosed,none,NA,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,No,No,0,2,No,1,23,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,0,no_pain,mild,no_pain
+No,No,No,0,2,Yes,1,30,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,0,9,mild,no_pain
+No,No,No,0,NA,No,1,21.3,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,0,no_pain,no_pain,no_pain
+No,No,No,0,2,Yes,1,18.8,not_stenosed,successful,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,mild,no_pain,no_pain
+No,No,No,0,2,No,1,26.3,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,No,No,0,4,No,1,24.3,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,0,no_pain,mild,no_pain
+No,No,No,0,3,Yes,1,21.9,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,None,0,8,no_pain,no_pain
+No,No,Yes,0,3,No,1,22,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,mild,mild,no_pain
+No,No,No,0,3,No,1,NA,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,0,mild,mild,no_pain
+No,No,Yes,0,NA,No,1,22.4,not_stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,0,moderate,moderate,no_pain
+No,Yes,Yes,0,2,No,1,23.3,not_stenosed,successful,Premenopausal bleeding,none,2,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Slightly nervous,None,0,no_pain,mild,no_pain
+No,No,Yes,0,3,No,1,28.6,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Slightly nervous,None,0,no_pain,no_pain,no_pain
+No,No,Yes,0,2,No,1,21.3,not_stenosed,successful,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,0,mild,mild,no_pain
+No,No,No,0,4,No,1,28.3,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,Slightly nervous,2,Not at all nervous,None,0,no_pain,mild,no_pain
+Yes,No,No,0,4,No,1,35.4,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,None,0,mild,mild,no_pain
+No,No,No,0,NA,No,1,29.9,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,0,mild,mild,no_pain
+No,Yes,Yes,0,0,No,1,25.9,not_stenosed,successful,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,0,mild,moderate,no_pain
+No,No,No,0,2,No,1,NA,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,1,Slightly nervous,Discomfort,0,mild,mild,no_pain
+No,No,No,0,2,No,1,21.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,0,moderate,mild,no_pain
+No,No,Yes,0,2,No,1,25.3,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,0,no_pain,mild,no_pain
+No,Yes,No,0,3,No,1,26.9,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,0,mild,mild,no_pain
+No,No,No,0,2,Yes,1,33.9,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,mild,mild,no_pain
+No,No,No,0,0,No,1,33.7,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,Yes,No,0,0,No,1,41.3,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Not nervous,1,Not at all nervous,None,0,no_pain,no_pain,no_pain
+Yes,No,No,1,5,Yes,1,42.9,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,None,0,no_pain,no_pain,no_pain
+No,No,No,0,2,No,1,26.6,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,0,no_pain,no_pain,no_pain
+No,No,No,0,0,No,1,46,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,0,no_pain,mild,no_pain
+No,No,No,0,NA,No,1,38.2,not_stenosed,successful,Postmenopausal bleeding/discharge,none,2,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,No,No,0,2,No,1,36.8,not_stenosed,successful,NA,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,0,no_pain,no_pain,no_pain
+No,No,No,0,3,No,1,21.9,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,mild,no_pain,no_pain
+No,No,Yes,0,NA,No,1,38.5,not_stenosed,successful,Other,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,No,No,0,2,Yes,1,25.1,stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,0,mild,mild,no_pain
+No,No,No,0,2,Yes,1,25.1,stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,0,mild,mild,no_pain
+No,Yes,Yes,0,4,No,1,37.8,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Other,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,0,no_pain,mild,no_pain
+No,No,No,0,NA,No,1,40.2,not_stenosed,successful,Other,1 ampule,1,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,no_pain,no_pain,no_pain
+No,No,No,0,2,Yes,1,28.1,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,moderate,no_pain,no_pain
+No,No,Yes,0,NA,No,1,45.9,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,0,mild,mild,no_pain
+No,No,No,0,NA,No,1,30.5,stenosed,none,NA,none,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Did not read,None,0,mild,mild,no_pain
+Yes,No,No,0,1,No,1,59,not_stenosed,successful,NA,none,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,0,mild,mild,no_pain
+No,Yes,No,0,2,No,1,35.1,not_stenosed,none,NA,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,0,mild,7,no_pain
+No,No,No,0,3,No,1,27.2,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,0,moderate,mild,no_pain
+No,No,No,0,2,No,1,21.4,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,no_pain,mild
+Yes,No,No,0,4,No,1,40.3,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Slightly nervous,None,1,mild,moderate,mild
+Yes,No,No,0,2,No,1,25.4,not_stenosed,none,NA,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,1,mild,no_pain,mild
+No,No,Yes,0,NA,No,1,21.1,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,no_pain,mild
+Yes,No,No,0,NA,No,1,22.7,not_stenosed,none,Postmenopausal bleeding/discharge,NA,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,no_pain,no_pain,mild
+Yes,Yes,Yes,0,3,No,1,28.2,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,mild,mild
+Yes,No,No,0,3,No,1,42.1,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,mild,mild
+Yes,No,No,0,2,No,1,46.8,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,mild,mild
+Yes,No,Yes,0,4,No,1,28.1,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,1,mild,no_pain,mild
+No,Yes,No,0,2,No,1,19.3,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,1,Not at all nervous,None,1,mild,mild,mild
+Yes,No,Yes,0,2,No,1,41.3,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Very nervous,2,Not at all nervous,Moderate,1,mild,no_pain,mild
+No,No,No,0,NA,No,1,29.3,not_stenosed,successful,NA,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,no_pain,no_pain,mild
+No,No,No,0,NA,No,1,28,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,moderate,mild
+Yes,No,No,0,4,Yes,1,38.7,not_stenosed,none,Other,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Did not receive,None,1,no_pain,no_pain,mild
+Yes,No,No,0,2,No,1,51.7,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,no_pain,mild,mild
+No,No,Yes,0,0,No,1,30.6,not_stenosed,successful,Premenopausal bleeding,none,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,1,mild,no_pain,mild
+No,No,Yes,0,5,No,1,45.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",NA,Very satisfied,Very nervous,2,NA,None,1,mild,mild,mild
+No,No,No,0,2,No,1,28,not_stenosed,successful,Other,none,2,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,None,1,mild,no_pain,mild
+Yes,No,Yes,0,2,No,1,27.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,1,mild,mild,mild
+No,No,No,0,0,No,1,28.9,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,1,moderate,mild,mild
+Yes,No,No,0,NA,No,1,26.3,stenosed,none,Other,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,2,Slightly nervous,Discomfort,1,mild,mild,mild
+No,No,No,1,NA,No,1,18.8,not_stenosed,none,Premenopausal bleeding,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Slightly nervous,None,1,moderate,mild,mild
+No,No,No,0,2,No,1,32.6,stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,1,mild,no_pain,mild
+No,Yes,No,0,1,Yes,1,39.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,2,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Very nervous,1,Very nervous,Discomfort,1,mild,moderate,mild
+No,No,No,0,NA,No,1,41,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,1,no_pain,no_pain,mild
+No,No,No,0,2,No,1,25.1,not_stenosed,none,Remove mirena/coil,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Did not receive,Discomfort,1,mild,mild,mild
+No,No,Yes,0,1,No,1,25.9,not_stenosed,none,Premenopausal bleeding,none,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,1,mild,mild,mild
+No,No,Yes,0,0,No,1,26,not_stenosed,successful,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,mild,mild
+No,Yes,Yes,0,1,Yes,1,42.9,not_stenosed,none,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,no_pain,mild
+No,Yes,No,0,4,No,1,35.3,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Very nervous,2,Very nervous,Mild,1,mild,moderate,mild
+No,No,No,0,2,Yes,1,28.4,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,1,mild,no_pain,mild
+No,No,No,0,1,No,1,24.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,no_pain,mild
+No,No,Yes,0,0,Yes,1,31.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,1,mild,mild,mild
+No,No,Yes,0,2,Yes,1,31.3,not_stenosed,successful,Premenopausal bleeding,3 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,1,7,mild,mild
+No,No,Yes,0,NA,No,1,54.5,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,1,moderate,mild,mild
+No,No,No,0,2,No,1,24.5,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,1,moderate,mild,mild
+No,No,No,0,NA,No,1,46.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,no_pain,no_pain,mild
+No,No,Yes,1,1,Yes,1,23.2,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,None,1,mild,no_pain,mild
+No,No,No,0,2,No,1,46.7,stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,1,mild,no_pain,mild
+No,Yes,Yes,0,1,No,1,22,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,1,Not at all nervous,Discomfort,1,mild,mild,mild
+No,No,Yes,0,1,No,1,19.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,1,mild,mild,mild
+No,No,No,0,5,No,1,27.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, probably",The same,Satisfied,Very nervous,2,NA,Discomfort,1,mild,mild,mild
+No,No,No,0,2,No,1,31.1,not_stenosed,successful,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,mild,mild
+No,No,No,0,2,No,1,22.8,not_stenosed,successful,Other,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,1,mild,mild,mild
+No,No,Yes,0,2,No,1,26.3,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,mild,mild
+Yes,No,No,0,2,No,1,26.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,moderate,no_pain,mild
+Yes,No,No,0,2,No,1,28.3,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Very nervous,None,1,mild,no_pain,mild
+No,No,No,1,1,No,1,29.2,not_stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,mild,mild
+No,No,No,0,NA,No,1,20,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,None,1,mild,mild,mild
+No,Yes,No,0,2,No,1,26.2,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,no_pain,mild,mild
+No,No,Yes,0,3,No,1,30.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,1,moderate,mild,mild
+No,No,Yes,1,3,Yes,1,28.9,stenosed,successful,NA,3 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,1,moderate,mild,mild
+No,No,No,0,2,No,1,26.3,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,1,mild,mild,mild
+No,No,Yes,1,3,Yes,1,36.3,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",NA,Very satisfied,Slightly nervous,2,Slightly nervous,None,1,mild,moderate,mild
+No,Yes,Yes,0,1,No,1,23.9,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,1,no_pain,no_pain,mild
+No,No,No,0,1,No,1,26.9,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,3,Did not read,None,1,no_pain,no_pain,mild
+No,No,Yes,0,3,No,1,28.2,not_stenosed,successful,Postmenopausal bleeding/discharge,NA,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,mild,mild
+No,No,No,0,1,No,1,27.4,not_stenosed,none,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,1,mild,mild,mild
+No,No,Yes,1,2,Yes,1,NA,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,1,moderate,mild,mild
+No,No,Yes,1,NA,No,1,28.4,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,no_pain,mild
+No,No,No,0,2,No,1,22.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,1,mild,mild,mild
+Yes,No,No,0,2,No,1,24.5,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,1,mild,mild,mild
+Yes,No,Yes,0,NA,No,1,46.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,mild,mild
+No,No,No,0,2,Yes,1,32,not_stenosed,none,Remove mirena/coil,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Not at all nervous,None,1,mild,mild,mild
+No,No,No,0,1,No,1,22.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,None,1,no_pain,no_pain,mild
+No,No,No,0,2,No,1,31.1,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Did not read,Discomfort,1,mild,mild,mild
+No,No,No,0,2,No,1,28.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,1,mild,mild,mild
+No,No,No,0,NA,No,1,24.8,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,1,mild,mild,mild
+No,No,No,0,2,Yes,1,27.5,stenosed,successful,Other,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Very nervous,None,1,moderate,moderate,mild
+No,No,No,0,1,No,1,29.2,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,1,mild,no_pain,mild
+No,Yes,No,1,0,No,1,31.6,not_stenosed,successful,Other,NA,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Slightly nervous,Discomfort,1,mild,moderate,mild
+No,No,No,0,3,No,1,34.9,not_stenosed,successful,Premenopausal bleeding,none,1,Other,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,None,1,mild,mild,mild
+No,No,No,0,NA,No,1,45.4,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,no_pain,no_pain,mild
+No,No,No,0,4,No,1,23.3,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,1,mild,mild,mild
+Yes,No,No,0,2,No,1,28.5,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,1,mild,mild,mild
+No,No,No,0,NA,No,1,39,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,1,mild,mild,mild
+No,No,No,0,2,No,1,27.7,not_stenosed,successful,NA,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,1,mild,mild,mild
+No,No,Yes,0,NA,No,1,40.9,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Severe,10,mild,mild,severe
+Yes,No,Yes,0,1,No,1,25.8,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,Not sure,Less,Satisfied,Very nervous,2,Slightly nervous,Moderate,10,mild,mild,severe
+Yes,No,No,0,2,No,1,27.3,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Slightly nervous,2,Slightly nervous,Moderate,10,moderate,moderate,severe
+No,No,No,0,NA,No,1,20.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,10,no_pain,no_pain,severe
+Yes,No,No,0,8,No,1,19.4,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,10,moderate,moderate,severe
+No,No,Yes,0,1,No,1,32.7,not_stenosed,successful,Postmenopausal bleeding/discharge,pre procedure meds,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"No, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,Severe,10,moderate,no_pain,severe
+No,No,No,0,2,No,1,37.2,not_stenosed,successful,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,10,mild,no_pain,severe
+No,No,No,0,2,No,1,25.4,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Slightly nervous,2,NA,None,2,moderate,moderate,mild
+No,Yes,No,0,1,Yes,1,33.8,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,3,Not at all nervous,None,2,mild,no_pain,mild
+Yes,Yes,No,0,2,No,1,28.2,not_stenosed,none,NA,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,2,mild,no_pain,mild
+No,No,Yes,0,2,No,1,28.5,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,2,mild,moderate,mild
+No,No,Yes,0,3,Yes,1,27.7,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,2,mild,mild,mild
+Yes,No,Yes,0,NA,No,1,19.5,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,2,no_pain,mild,mild
+Yes,Yes,No,0,2,Yes,1,24.5,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,2,mild,mild,mild
+No,No,Yes,0,NA,No,1,27.3,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,Yes,0,2,No,1,35.2,stenosed,successful,Premenopausal bleeding,3 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Did not receive,Discomfort,2,mild,moderate,mild
+No,No,No,0,NA,No,1,25,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,2,mild,no_pain,mild
+Yes,Yes,No,0,0,No,1,28.7,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,2,no_pain,no_pain,mild
+No,No,No,0,2,No,1,24.9,not_stenosed,none,NA,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,Mild,2,mild,mild,mild
+Yes,No,No,0,NA,No,1,34.9,stenosed,none,NA,1 ampule,0,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,2,mild,mild,mild
+No,Yes,No,0,0,No,1,22.9,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+Yes,No,Yes,0,2,No,1,25.9,stenosed,none,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,2,mild,mild,mild
+Yes,No,No,0,4,No,1,33.7,not_stenosed,none,NA,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+Yes,No,No,0,3,No,1,42.8,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,Yes,0,NA,No,1,36.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+Yes,No,No,0,2,No,1,33.6,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,2,mild,mild,mild
+No,No,No,0,NA,No,1,25.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,2,mild,mild,mild
+No,No,Yes,0,NA,No,1,19.8,not_stenosed,none,Premenopausal bleeding,NA,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,no_pain,no_pain,mild
+No,No,No,0,2,No,1,34,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,None,2,mild,mild,mild
+No,No,No,0,NA,No,NA,20.3,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,1,Not at all nervous,Discomfort,2,mild,mild,mild
+No,Yes,No,0,1,No,1,40.1,not_stenosed,successful,NA,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,2,no_pain,mild,mild
+Yes,No,No,0,2,No,1,23.5,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,No,0,NA,No,1,NA,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+Yes,No,Yes,0,0,No,NA,35.7,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,No,0,3,No,1,21.8,not_stenosed,successful,Premenopausal bleeding,NA,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,2,no_pain,mild,mild
+Yes,No,No,0,6,No,1,29.4,not_stenosed,successful,NA,none,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,2,moderate,mild,mild
+Yes,No,Yes,0,2,No,1,36.6,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Satisfied,Not nervous,2,Not at all nervous,Discomfort,2,no_pain,no_pain,mild
+No,Yes,No,0,NA,No,1,22.9,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,2,mild,mild,mild
+No,No,Yes,0,1,Yes,1,23.3,stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,2,moderate,no_pain,mild
+No,No,No,0,NA,No,1,23.8,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Did not read,None,2,8,mild,mild
+No,No,No,0,1,No,1,20.1,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,2,Slightly nervous,Mild,2,moderate,mild,mild
+Yes,No,Yes,0,3,No,1,32.2,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,2,moderate,no_pain,mild
+No,No,No,0,2,No,1,32.6,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Unsatisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+Yes,No,Yes,0,3,No,1,23.6,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+Yes,No,No,0,2,No,1,30.8,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,None,2,mild,no_pain,mild
+Yes,No,Yes,0,2,No,1,38.9,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+No,No,No,0,4,No,1,25.3,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,2,7,mild,mild
+No,No,No,0,1,No,1,24.2,not_stenosed,successful,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,None,2,mild,moderate,mild
+No,No,No,0,3,No,1,42.9,stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Slightly nervous,2,Slightly nervous,None,2,mild,mild,mild
+No,No,No,0,3,Yes,1,27.7,not_stenosed,none,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,2,moderate,mild,mild
+No,Yes,No,0,NA,No,1,32.1,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,2,mild,mild,mild
+No,No,Yes,0,2,No,1,23.8,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,2,mild,mild,mild
+No,No,No,0,2,No,1,19.8,not_stenosed,successful,NA,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,no_pain,mild
+No,No,Yes,0,2,Yes,1,33.5,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,mild,moderate,mild
+Yes,No,No,0,2,No,1,20.7,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,2,mild,no_pain,mild
+No,No,No,0,2,No,1,21.4,not_stenosed,successful,Premenopausal bleeding,none,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,None,2,mild,mild,mild
+No,No,No,0,3,No,1,30.3,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,2,mild,moderate,mild
+No,Yes,No,0,0,No,1,22.1,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,2,mild,mild,mild
+No,No,No,0,1,Yes,1,37.7,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,2,mild,no_pain,mild
+No,No,No,0,4,No,1,31.3,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,3,Did not receive,Discomfort,2,mild,mild,mild
+No,No,No,0,2,No,1,18.4,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,Yes,0,4,No,1,33.1,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,2,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,2,mild,no_pain,mild
+No,No,No,0,2,No,1,27.7,not_stenosed,successful,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,More,Satisfied,Slightly nervous,3,Slightly nervous,None,2,mild,mild,mild
+No,No,No,0,NA,No,1,20.5,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,2,mild,no_pain,mild
+No,No,Yes,0,1,No,1,29.6,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,2,mild,no_pain,mild
+No,No,Yes,1,NA,No,1,29.2,not_stenosed,successful,Premenopausal bleeding,none,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,2,7,moderate,mild
+Yes,No,No,0,1,No,1,39.6,not_stenosed,successful,NA,1 ampule,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,2,mild,moderate,mild
+No,No,Yes,0,2,No,1,35.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,None,2,moderate,mild,mild
+No,No,No,0,2,Yes,1,25,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,2,mild,mild,mild
+No,No,Yes,0,3,No,1,27.6,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,Very nervous,2,Very nervous,None,2,mild,moderate,mild
+No,No,Yes,1,NA,No,1,21.7,not_stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,moderate,mild
+No,No,No,0,1,No,1,24.6,stenosed,successful,Other,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,2,moderate,mild,mild
+No,No,Yes,0,2,No,1,22.4,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,2,mild,mild,mild
+Yes,No,No,1,5,Yes,1,40.7,stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,1,Not at all nervous,None,2,mild,mild,mild
+Yes,No,No,1,5,Yes,1,40.7,stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,1,Not at all nervous,None,2,mild,mild,mild
+No,No,No,0,3,No,1,18.9,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,No,0,NA,No,1,30.5,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+No,No,No,0,2,Yes,1,34.8,not_stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,No,0,2,No,1,25.6,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Normal,Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,2,moderate,mild,mild
+Yes,No,Yes,1,2,Yes,1,26.2,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,2,mild,mild,mild
+No,Yes,No,0,NA,No,1,26.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,1,Not at all nervous,None,2,mild,mild,mild
+No,No,No,0,2,Yes,1,25.7,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Very nervous,2,Slightly nervous,Mild,2,moderate,no_pain,mild
+Yes,No,No,0,3,No,1,32.3,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,mild,mild,mild
+No,No,Yes,0,1,No,1,23.1,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Very nervous,1,Slightly nervous,Discomfort,2,mild,mild,mild
+No,No,No,1,NA,No,1,31.9,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,2,mild,moderate,mild
+No,Yes,No,0,NA,No,1,19.1,not_stenosed,none,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,2,no_pain,no_pain,mild
+No,No,No,1,0,No,1,41.3,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,2,Slightly nervous,None,2,mild,no_pain,mild
+No,No,No,1,0,No,1,24.7,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,2,mild,no_pain,mild
+No,No,Yes,0,NA,No,1,25.1,not_stenosed,none,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Very nervous,1,Did not receive,Discomfort,2,mild,moderate,mild
+No,No,Yes,0,2,No,1,20.6,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,Yes,0,1,No,1,22.6,stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,Not sure,The same,Satisfied,Slightly nervous,1,Not at all nervous,None,2,mild,mild,mild
+No,No,No,0,NA,No,1,23.6,not_stenosed,successful,Premenopausal bleeding,none,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,2,mild,mild,mild
+No,No,No,0,2,No,1,36.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,no_pain,no_pain,mild
+No,No,No,0,1,Yes,1,45.9,not_stenosed,successful,NA,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,moderate,mild
+No,Yes,No,0,NA,No,1,25.4,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,2,Slightly nervous,Discomfort,2,moderate,mild,mild
+No,No,No,0,3,No,1,25.9,not_stenosed,successful,Other,NA,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,mild,mild
+No,No,No,0,5,Yes,1,37.1,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,2,mild,no_pain,mild
+Yes,No,No,0,NA,No,1,23.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,3,no_pain,no_pain,mild
+No,No,Yes,1,2,No,1,20.4,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+No,Yes,Yes,0,2,No,1,32.6,not_stenosed,successful,NA,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+No,No,Yes,0,3,No,1,29.8,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,NA,No,1,24.5,not_stenosed,successful,NA,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,mild,mild
+Yes,No,Yes,0,2,No,1,34.1,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,3,mild,no_pain,mild
+Yes,No,Yes,0,1,No,1,23.2,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,3,moderate,mild,mild
+Yes,Yes,Yes,0,4,No,1,25.1,stenosed,none,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,1,Slightly nervous,None,3,mild,no_pain,mild
+Yes,No,No,0,6,Yes,1,NA,not_stenosed,none,Other,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Slightly nervous,None,3,mild,7,mild
+No,Yes,Yes,0,3,No,1,27.7,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,no_pain,mild
+Yes,No,Yes,0,NA,No,1,26.5,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,7,mild,mild
+Yes,No,No,0,2,No,1,32.9,not_stenosed,successful,NA,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,3,mild,moderate,mild
+No,No,Yes,0,2,No,1,24,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,3,mild,mild,mild
+No,No,No,0,2,No,1,24.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,3,no_pain,no_pain,mild
+Yes,Yes,No,0,1,Yes,1,33.7,not_stenosed,none,Other,NA,1,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,8,no_pain,mild
+No,Yes,No,0,2,Yes,1,37,stenosed,none,Other,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,1,Not at all nervous,Discomfort,3,mild,mild,mild
+No,Yes,No,0,2,No,1,31.2,not_stenosed,successful,NA,1 ampule,1,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,2,Very nervous,None,3,mild,mild,mild
+Yes,No,Yes,0,2,No,1,42.9,stenosed,none,Other,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,1,Slightly nervous,Discomfort,3,mild,8,mild
+Yes,No,Yes,0,2,No,1,27.1,stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,mild,mild
+Yes,Yes,Yes,0,2,No,1,45.3,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,None,3,moderate,mild,mild
+No,No,Yes,0,NA,No,1,29.5,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,Mild,3,mild,mild,mild
+No,No,Yes,0,2,No,1,46,stenosed,none,Postmenopausal bleeding/discharge,NA,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,1,Yes,1,25.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,3,mild,mild,mild
+Yes,Yes,No,0,2,Yes,1,31,not_stenosed,successful,NA,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,2,No,1,23.6,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,Very satisfied,Very nervous,2,Slightly nervous,None,3,mild,mild,mild
+No,No,No,0,3,No,1,26.7,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,3,no_pain,mild,mild
+Yes,Yes,No,0,2,No,1,27.5,stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",Less,Satisfied,Very nervous,2,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,NA,No,1,19.5,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,3,8,mild,mild
+Yes,No,No,0,0,No,1,26.6,not_stenosed,none,Other,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,mild,mild
+No,No,No,0,2,No,1,21.6,not_stenosed,successful,NA,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Slightly nervous,None,3,mild,moderate,mild
+No,Yes,No,0,NA,No,1,34.4,stenosed,successful,Other,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",Less,Satisfied,Slightly nervous,1,Very nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,0,No,1,24.3,not_stenosed,none,Premenopausal bleeding,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,no_pain,mild,mild
+Yes,Yes,No,0,2,No,1,29.7,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",The same,Very satisfied,Slightly nervous,3,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,NA,No,1,19.2,not_stenosed,successful,Premenopausal bleeding,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,3,no_pain,mild,mild
+No,No,No,0,2,No,1,29.6,not_stenosed,none,Premenopausal bleeding,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,moderate,mild,mild
+Yes,No,No,0,2,No,1,30.9,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,3,mild,moderate,mild
+No,No,No,0,2,No,1,20.1,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,no_pain,7,mild
+No,No,No,0,NA,No,1,13.5,stenosed,successful,Premenopausal bleeding,none,1,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,moderate,mild
+No,No,No,0,1,No,1,25.8,not_stenosed,successful,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,no_pain,mild
+No,No,No,1,2,Yes,1,34.7,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+No,No,Yes,0,2,Yes,1,23.1,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,0,No,1,29.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,no_pain,mild
+No,No,No,0,2,No,1,19,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Did not receive,Mild,3,mild,mild,mild
+No,No,Yes,0,1,Yes,1,31.8,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,moderate,mild,mild
+Yes,No,No,0,1,No,1,33.2,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,moderate,mild,mild
+No,No,No,0,2,Yes,1,32.7,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,3,No,1,24.1,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Did not read,Discomfort,3,mild,mild,mild
+No,No,No,0,2,Yes,1,22.7,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+No,No,No,0,2,Yes,1,33,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+Yes,No,No,1,1,Yes,1,30.5,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,1,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,2,Yes,1,33,not_stenosed,successful,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,7,mild,mild
+No,No,No,0,3,No,1,30.1,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Slightly nervous,Mild,3,mild,mild,mild
+No,No,Yes,0,3,No,1,26.9,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,3,mild,moderate,mild
+No,Yes,No,0,2,No,1,18.5,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,3,no_pain,moderate,mild
+Yes,No,Yes,0,5,No,1,40,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, probably",Less,Satisfied,NA,2,Very nervous,Mild,3,mild,moderate,mild
+No,No,No,0,4,Yes,1,30.8,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+No,Yes,Yes,0,2,No,1,20.2,not_stenosed,unsuccessful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Very nervous,1,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,2,No,1,24.5,not_stenosed,successful,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,NA,No,1,27.8,not_stenosed,successful,Other,none,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Slightly nervous,None,3,mild,mild,mild
+No,No,No,0,2,No,1,25.2,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Slightly nervous,Mild,3,moderate,mild,mild
+Yes,No,No,0,3,No,1,42.7,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,None,3,mild,moderate,mild
+No,No,No,0,2,No,1,32.2,not_stenosed,none,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,2,No,1,41.3,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,3,Yes,1,22.8,stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,2,Not at all nervous,Moderate,3,mild,mild,mild
+Yes,No,Yes,0,3,No,1,25,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,moderate,mild
+No,No,Yes,1,3,Yes,1,25.3,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+No,No,No,1,NA,No,1,20.9,not_stenosed,none,NA,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,2,Slightly nervous,Discomfort,3,moderate,mild,mild
+No,No,No,0,1,No,1,24,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,no_pain,mild,mild
+No,No,No,0,NA,No,1,23.6,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,moderate,mild
+No,Yes,Yes,0,0,No,1,40.6,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",NA,Satisfied,Very nervous,3,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,3,No,1,44.1,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,3,mild,moderate,mild
+No,No,No,0,NA,No,1,17.9,not_stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Did not receive,None,3,mild,mild,mild
+No,No,No,0,2,No,1,23,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Did not receive,Discomfort,3,moderate,7,mild
+No,No,No,1,2,No,1,22.2,not_stenosed,successful,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,3,mild,moderate,mild
+No,No,Yes,0,1,No,1,49.6,stenosed,successful,Premenopausal bleeding,none,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,No,1,2,Yes,1,28.2,stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,3,No,1,28.1,not_stenosed,none,Remove mirena/coil,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,NA,Very nervous,3,Slightly nervous,Discomfort,3,mild,moderate,mild
+No,No,No,0,2,No,1,28.9,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,moderate,mild,mild
+No,No,No,0,1,Yes,1,24.4,not_stenosed,none,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Very satisfied,Slightly nervous,2,Slightly nervous,Mild,3,7,9,mild
+No,No,Yes,0,1,No,1,20.8,not_stenosed,none,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,2,No,1,26.4,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Not at all nervous,None,3,mild,mild,mild
+Yes,No,No,0,NA,No,1,34.6,not_stenosed,none,Other,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,3,no_pain,no_pain,mild
+No,No,No,0,4,Yes,1,28,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,no_pain,mild
+No,No,No,0,2,No,1,24.8,not_stenosed,successful,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Slightly nervous,None,3,moderate,mild,mild
+No,No,No,0,1,No,1,36.1,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,mild,mild
+No,No,No,0,NA,No,1,23.8,not_stenosed,successful,Postmenopausal bleeding/discharge,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+No,No,No,0,2,No,1,24.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,no_pain,mild,mild
+No,No,No,0,2,No,1,21.9,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Very nervous,1,Did not receive,None,3,8,mild,mild
+No,No,No,0,NA,No,1,24.3,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,3,mild,mild,mild
+No,No,No,1,3,No,1,27.2,stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,mild,mild
+No,No,Yes,0,1,No,1,23.6,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,None,3,moderate,mild,mild
+No,No,Yes,0,2,No,1,38,stenosed,successful,NA,none,1,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,moderate,mild,mild
+No,Yes,No,0,0,No,1,30.4,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+No,No,Yes,0,1,No,1,24,not_stenosed,successful,NA,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+No,No,Yes,0,3,No,1,25.4,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,mild,mild,mild
+No,No,No,0,0,No,1,48.4,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+No,No,Yes,0,NA,No,1,31.8,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,2,No,1,22.1,stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,mild,mild
+No,No,Yes,0,1,No,1,40.7,not_stenosed,successful,Premenopausal bleeding,none,1,Other,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,3,mild,mild,mild
+No,No,No,0,1,No,1,40.4,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,3,NA,Discomfort,3,mild,mild,mild
+No,No,Yes,0,NA,No,1,26.4,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,no_pain,no_pain,mild
+No,No,No,0,0,No,1,24,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,None,3,mild,mild,mild
+No,Yes,No,0,NA,No,1,25.7,not_stenosed,unsuccessful,Premenopausal bleeding,1 ampule,0,NA,repeat endometrial resection,"No, definitely",NA,Very unsatisfied,Slightly nervous,2,Not at all nervous,Discomfort,3,mild,mild,mild
+No,No,Yes,0,4,No,1,31.2,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,NA,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+No,No,No,0,NA,No,1,NA,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,NA,Resection of the endometrium,"Yes, definitely",More,Very satisfied,Very nervous,2,Very nervous,Discomfort,3,mild,mild,mild
+No,No,No,0,2,No,1,23.6,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+Yes,No,No,0,NA,No,1,29.5,not_stenosed,successful,Postmenopausal bleeding/discharge,NA,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Did not receive,Moderate,3,mild,mild,mild
+Yes,No,No,0,NA,No,1,29.5,not_stenosed,successful,Postmenopausal bleeding/discharge,NA,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Did not receive,Moderate,3,mild,mild,mild
+Yes,No,No,0,NA,No,1,34.2,not_stenosed,successful,NA,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+Yes,No,No,0,NA,No,1,23.6,not_stenosed,none,Other,none,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,3,mild,mild,mild
+No,No,Yes,0,2,No,1,42.4,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,3,moderate,mild,mild
+No,No,No,0,1,No,1,34,not_stenosed,successful,Premenopausal bleeding,3 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,3,mild,mild,mild
+No,No,Yes,0,6,Yes,1,27.4,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,4,mild,mild,moderate
+Yes,Yes,No,0,1,No,1,32,not_stenosed,none,Postmenopausal bleeding/discharge,NA,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Mild,4,moderate,mild,moderate
+No,No,No,0,2,No,1,42,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,4,no_pain,mild,moderate
+Yes,Yes,No,0,NA,No,1,34.9,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,1,NA,Discomfort,4,no_pain,mild,moderate
+Yes,No,No,1,3,No,1,32,not_stenosed,none,Postmenopausal bleeding/discharge,NA,1,Atrophic,Diagnostic hysteroscopy and biopsy,Not sure,The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,4,mild,mild,moderate
+Yes,No,No,0,3,No,1,32.7,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+No,No,No,0,0,No,1,23.9,stenosed,successful,Premenopausal bleeding,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,4,mild,no_pain,moderate
+No,No,No,0,NA,No,1,23.4,stenosed,none,Other,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,4,mild,no_pain,moderate
+Yes,No,Yes,0,NA,No,1,26.9,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,4,mild,7,moderate
+No,No,Yes,0,2,No,1,24.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Slightly nervous,2,Not at all nervous,None,4,mild,mild,moderate
+Yes,No,No,0,NA,No,1,47.1,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Did not receive,Discomfort,4,moderate,no_pain,moderate
+No,Yes,Yes,0,0,No,1,47,not_stenosed,successful,Postmenopausal bleeding/discharge,3 ampules,1,Other,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,4,moderate,mild,moderate
+Yes,No,No,0,3,No,1,31.1,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,2,Slightly nervous,Discomfort,4,no_pain,mild,moderate
+No,No,No,0,NA,No,1,26.2,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,4,mild,no_pain,moderate
+No,No,No,0,1,No,1,30.8,not_stenosed,successful,Other,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,4,mild,no_pain,moderate
+Yes,No,Yes,0,1,No,1,27,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",Less,Satisfied,Very nervous,2,Very nervous,Mild,4,mild,no_pain,moderate
+No,No,Yes,0,3,No,1,22.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,1,Slightly nervous,Discomfort,4,mild,no_pain,moderate
+No,No,No,0,NA,No,1,NA,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+No,No,No,0,2,No,1,30.2,not_stenosed,successful,NA,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,4,mild,no_pain,moderate
+No,Yes,No,0,4,No,1,28.7,not_stenosed,successful,Other,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Did not receive,Discomfort,4,mild,moderate,moderate
+Yes,No,Yes,0,4,No,1,27.2,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",More,Satisfied,Very nervous,2,Very nervous,Discomfort,4,mild,mild,moderate
+Yes,No,Yes,0,2,No,1,21.5,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,4,moderate,moderate,moderate
+No,No,Yes,0,2,No,1,34.8,not_stenosed,none,Premenopausal bleeding,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,3,Not at all nervous,Discomfort,4,mild,mild,moderate
+Yes,No,No,0,2,No,1,29,not_stenosed,successful,NA,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,4,moderate,mild,moderate
+No,No,No,0,1,No,1,22,not_stenosed,successful,Premenopausal bleeding,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,4,mild,mild,moderate
+No,No,No,0,2,No,1,21.7,not_stenosed,none,Premenopausal bleeding,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,4,mild,mild,moderate
+No,No,No,1,NA,No,1,36.3,not_stenosed,none,NA,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,4,mild,mild,moderate
+No,No,No,0,NA,No,1,22.9,not_stenosed,none,NA,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,4,no_pain,no_pain,moderate
+No,No,Yes,0,NA,No,1,NA,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+No,No,Yes,0,3,Yes,1,34.4,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,4,mild,no_pain,moderate
+No,No,No,0,2,No,1,20,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+No,No,Yes,0,0,No,1,25.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+Yes,No,No,0,3,No,1,21.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Not at all nervous,Discomfort,4,mild,mild,moderate
+No,No,No,0,4,Yes,1,39.1,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,4,no_pain,mild,moderate
+No,No,Yes,0,0,No,1,24.8,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,4,mild,no_pain,moderate
+No,Yes,No,0,2,No,1,29.1,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,None,4,moderate,moderate,moderate
+No,No,Yes,0,NA,No,1,NA,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,4,mild,mild,moderate
+No,No,Yes,0,3,No,1,24.8,stenosed,none,Other,none,0,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,4,mild,mild,moderate
+No,No,No,0,2,No,1,25.5,not_stenosed,successful,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,4,moderate,mild,moderate
+Yes,No,No,0,3,No,1,21.9,stenosed,none,NA,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very unsatisfied,Slightly nervous,2,Not at all nervous,Discomfort,4,mild,mild,moderate
+No,No,Yes,1,NA,No,1,71,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Slightly nervous,Moderate,4,7,no_pain,moderate
+No,No,Yes,0,2,No,1,22.8,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Did not receive,Discomfort,4,mild,moderate,moderate
+No,No,Yes,0,2,No,1,22.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,1,Slightly nervous,None,4,mild,mild,moderate
+No,No,No,0,1,No,1,27.2,not_stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Did not receive,Discomfort,4,moderate,no_pain,moderate
+No,No,No,0,3,No,1,34.3,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,4,8,moderate,moderate
+No,Yes,No,0,2,No,1,26.4,not_stenosed,successful,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",NA,Very satisfied,Not nervous,1,Did not receive,None,4,mild,mild,moderate
+No,No,Yes,0,2,No,1,19.9,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,4,mild,mild,moderate
+No,No,No,0,NA,No,1,17.9,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,8,mild,moderate
+No,No,No,0,5,No,1,24.7,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,3,NA,Discomfort,4,moderate,mild,moderate
+Yes,Yes,Yes,0,2,No,1,38.9,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,4,mild,mild,moderate
+No,No,No,0,NA,No,1,17.2,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Did not receive,Discomfort,4,mild,mild,moderate
+No,No,Yes,0,2,No,1,21.2,stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,4,mild,mild,moderate
+No,No,Yes,0,3,Yes,1,35.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,4,mild,moderate,moderate
+No,No,No,0,NA,No,1,33.7,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,moderate,moderate
+No,No,No,0,5,No,1,27.9,not_stenosed,successful,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,4,moderate,mild,moderate
+No,Yes,No,1,2,No,1,18.6,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,4,moderate,mild,moderate
+Yes,No,No,0,2,No,1,34.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Very nervous,2,Did not receive,Discomfort,4,moderate,moderate,moderate
+Yes,No,No,0,6,No,1,37,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Very nervous,2,Did not read,Moderate,4,mild,7,moderate
+No,No,No,0,NA,No,1,31.9,not_stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,1,Slightly nervous,Severe,4,moderate,moderate,moderate
+No,No,No,0,2,Yes,1,23.6,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,3,Not at all nervous,Moderate,4,mild,mild,moderate
+No,No,No,0,1,No,NA,23.3,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,3,Very nervous,None,4,mild,moderate,moderate
+No,No,No,0,2,No,1,23.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+Yes,No,No,0,3,Yes,1,22.6,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,1,Slightly nervous,None,4,mild,moderate,moderate
+Yes,No,No,0,2,Yes,1,34.8,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,2,Not at all nervous,Discomfort,4,8,mild,moderate
+No,Yes,Yes,1,0,No,1,20.7,not_stenosed,none,NA,2 ampules,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,4,moderate,moderate,moderate
+No,Yes,No,0,2,Yes,1,41.8,not_stenosed,successful,NA,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,moderate,moderate
+No,No,No,0,2,No,1,19.9,not_stenosed,successful,Other,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,4,mild,mild,moderate
+Yes,No,No,0,2,No,1,26.7,not_stenosed,none,NA,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+No,Yes,Yes,0,1,No,1,25,not_stenosed,none,Premenopausal bleeding,NA,1,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,Mild,4,mild,no_pain,moderate
+No,No,Yes,0,NA,No,1,23.9,not_stenosed,none,Premenopausal bleeding,none,1,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,moderate,mild,moderate
+No,No,No,0,1,No,1,28.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,4,mild,no_pain,moderate
+No,No,No,0,2,No,1,23.5,not_stenosed,none,Premenopausal bleeding,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,4,mild,mild,moderate
+No,No,No,0,2,No,1,17.4,not_stenosed,successful,Premenopausal bleeding,none,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,mild,mild,moderate
+No,No,No,0,1,No,1,33.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,8,mild,moderate
+No,No,No,0,0,No,1,21.5,not_stenosed,none,Premenopausal bleeding,none,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,4,mild,mild,moderate
+Yes,No,Yes,0,2,No,1,20.5,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,NA,Slightly nervous,2,Slightly nervous,Discomfort,4,9,mild,moderate
+No,No,No,0,3,Yes,1,42.3,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,no_pain,no_pain,moderate
+Yes,No,No,0,NA,No,1,31.4,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,4,mild,mild,moderate
+No,No,Yes,0,1,No,1,28.8,not_stenosed,successful,NA,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,4,moderate,mild,moderate
+Yes,No,No,0,3,No,1,34.2,not_stenosed,none,NA,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,4,mild,mild,moderate
+No,No,No,1,1,No,1,43.1,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",Less,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,3,No,1,30.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,5,mild,mild,moderate
+No,No,No,0,3,No,1,31.2,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,2,Slightly nervous,Discomfort,5,moderate,9,moderate
+Yes,No,No,0,NA,No,1,33.7,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Did not receive,Discomfort,5,no_pain,mild,moderate
+No,No,No,0,NA,No,1,18.6,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Severe,5,mild,mild,moderate
+No,No,Yes,0,NA,No,1,17.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,9,no_pain,moderate
+No,No,No,0,NA,No,1,23.7,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,5,mild,no_pain,moderate
+No,No,No,0,2,No,1,28.1,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Slightly nervous,2,Slightly nervous,None,5,moderate,mild,moderate
+Yes,Yes,No,0,NA,No,1,39.7,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,5,mild,mild,moderate
+Yes,No,No,0,2,No,1,26.8,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,moderate,moderate,moderate
+No,No,No,0,3,No,1,24.2,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,NA,Discomfort,5,mild,no_pain,moderate
+No,Yes,Yes,0,3,No,1,20.1,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,1,Not at all nervous,None,5,moderate,mild,moderate
+Yes,No,No,0,6,No,1,49,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Not nervous,1,Not at all nervous,Discomfort,5,mild,mild,moderate
+Yes,No,Yes,0,1,Yes,1,39.5,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,NA,Very nervous,2,Slightly nervous,Moderate,5,8,mild,moderate
+No,No,No,0,NA,No,1,23.7,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Very nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,2,No,1,31.6,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Not at all nervous,None,5,9,moderate,moderate
+No,No,Yes,0,5,Yes,1,31.2,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Did not read,None,5,mild,mild,moderate
+Yes,No,No,1,4,No,1,NA,not_stenosed,successful,NA,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,Not sure,Less,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,mild,mild,moderate
+Yes,No,No,0,3,No,1,36.2,stenosed,successful,Postmenopausal bleeding/discharge,none,1,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,mild,moderate
+Yes,No,Yes,0,NA,No,1,35.1,not_stenosed,successful,Other,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,moderate,no_pain,moderate
+Yes,No,No,0,NA,No,1,NA,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Not at all nervous,Moderate,5,mild,mild,moderate
+No,No,Yes,0,2,No,1,31.2,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Very nervous,Discomfort,5,mild,no_pain,moderate
+No,No,No,0,NA,No,1,0,not_stenosed,successful,Premenopausal bleeding,none,2,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,None,5,mild,mild,moderate
+Yes,No,No,0,2,No,1,32.6,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Moderate,5,moderate,mild,moderate
+Yes,No,Yes,0,1,Yes,1,41.6,not_stenosed,successful,Postmenopausal bleeding/discharge,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+Yes,No,Yes,0,2,No,1,52.9,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",Less,Very satisfied,Very nervous,2,Not at all nervous,Mild,5,mild,moderate,moderate
+No,No,Other drug,0,2,No,NA,34.8,not_stenosed,none,Premenopausal bleeding,2 ampules,0,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,5,moderate,no_pain,moderate
+Yes,No,No,1,1,No,1,34.7,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+Yes,No,No,0,2,No,1,31.8,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,5,mild,no_pain,moderate
+No,No,Yes,0,2,No,1,44.2,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",More,Very satisfied,Very nervous,1,Very nervous,Moderate,5,mild,mild,moderate
+No,Yes,No,0,NA,No,1,NA,not_stenosed,successful,NA,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Moderate,5,mild,no_pain,moderate
+Yes,No,Yes,0,1,No,1,32.7,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,2,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,mild,no_pain,moderate
+No,No,No,0,2,No,1,32.4,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,Satisfied,Slightly nervous,2,Slightly nervous,Mild,5,mild,no_pain,moderate
+Yes,No,No,0,2,No,1,23.1,stenosed,successful,Other,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,3,No,1,42.4,not_stenosed,none,Premenopausal bleeding,none,0,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",NA,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,moderate,moderate,moderate
+No,No,Other drug,0,2,No,1,20.2,not_stenosed,none,Premenopausal bleeding,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",More,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,No,1,1,Yes,1,37.7,not_stenosed,none,Premenopausal bleeding,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,0,No,1,28.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,"No, definitely",The same,Satisfied,Slightly nervous,2,Did not read,Mild,5,mild,moderate,moderate
+No,No,Yes,0,2,Yes,1,25.6,not_stenosed,none,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,mild,moderate
+No,No,No,0,2,No,1,25.4,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,moderate,mild,moderate
+No,No,Yes,0,3,No,1,40.4,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,Not sure,Less,Satisfied,Slightly nervous,2,Slightly nervous,Mild,5,moderate,no_pain,moderate
+No,No,No,0,3,No,1,14.4,not_stenosed,none,Other,none,1,Other,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Moderate,5,mild,mild,moderate
+No,No,No,0,0,No,1,26.4,stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,mild,moderate
+No,No,No,0,4,Yes,1,29.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,moderate,mild,moderate
+Yes,No,No,0,2,Yes,1,28,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,3,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,3,No,1,21.9,not_stenosed,none,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Slightly nervous,Mild,5,mild,mild,moderate
+No,No,Yes,0,5,No,1,32.4,not_stenosed,none,Premenopausal bleeding,none,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,NA,Very nervous,2,Slightly nervous,None,5,mild,mild,moderate
+No,Yes,Yes,0,2,No,1,26.2,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Slightly nervous,1,Not at all nervous,Discomfort,5,moderate,moderate,moderate
+No,No,No,0,1,No,1,28.1,stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",NA,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,Yes,0,2,No,1,19.5,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Not at all nervous,Mild,5,mild,mild,moderate
+No,No,Yes,0,2,No,1,31.7,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,5,moderate,mild,moderate
+Yes,Yes,Yes,0,2,No,1,19.8,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,No,1,2,Yes,1,23.8,not_stenosed,successful,Premenopausal bleeding,NA,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,mild,moderate
+Yes,Yes,Yes,1,3,No,1,27.8,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,5,mild,no_pain,moderate
+No,No,No,0,10,No,1,33.6,not_stenosed,successful,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,1,Not at all nervous,None,5,mild,mild,moderate
+No,No,Yes,0,2,Yes,1,32.4,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,7,mild,moderate
+No,No,Yes,0,4,No,1,40.1,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,5,moderate,moderate,moderate
+No,No,No,0,NA,No,1,21.5,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Not nervous,2,Not at all nervous,Discomfort,5,moderate,moderate,moderate
+No,Yes,No,0,1,No,1,23.2,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,5,mild,mild,moderate
+No,Yes,No,0,2,Yes,1,33.9,stenosed,successful,NA,2 ampules,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,5,mild,no_pain,moderate
+No,No,Yes,0,3,No,1,30.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,2,Yes,1,29.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",The same,Very satisfied,Slightly nervous,3,Did not receive,Mild,5,mild,mild,moderate
+No,No,Other drug,0,1,No,1,48.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,mild,moderate
+No,No,No,0,1,Yes,1,33.1,stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,1,Slightly nervous,Mild,5,mild,mild,moderate
+No,No,Yes,0,NA,No,1,27.4,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Did not receive,Mild,5,mild,mild,moderate
+No,No,Yes,0,3,No,1,22.4,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",NA,Very satisfied,Slightly nervous,2,Not at all nervous,Moderate,5,mild,mild,moderate
+No,No,No,0,1,Yes,1,24.7,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,Yes,0,1,Yes,1,26.7,not_stenosed,successful,Other,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,5,moderate,7,moderate
+No,Yes,No,0,0,No,1,30.5,stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Very nervous,1,Slightly nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,3,No,1,29.7,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,5,mild,mild,moderate
+Yes,No,No,0,1,No,1,26.3,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Normal,Hysteroscopic polypectomy,"Yes, probably",Less,Very satisfied,Very nervous,2,Slightly nervous,Severe,5,mild,no_pain,moderate
+Yes,No,Yes,1,0,No,1,24.1,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, probably",More,Satisfied,Slightly nervous,2,Slightly nervous,Mild,5,moderate,mild,moderate
+No,No,No,0,1,Yes,1,21.1,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,5,mild,mild,moderate
+No,Yes,Yes,0,1,Yes,1,NA,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,no_pain,moderate
+No,Yes,No,0,4,No,1,37.2,not_stenosed,none,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,mild,moderate
+No,Yes,Yes,0,2,No,1,45.6,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,5,moderate,mild,moderate
+No,Yes,No,0,2,Yes,1,50.5,not_stenosed,none,Premenopausal bleeding,3 ampules,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,1,Slightly nervous,Discomfort,5,moderate,mild,moderate
+No,No,No,0,NA,No,NA,22.3,not_stenosed,none,NA,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,5,mild,8,moderate
+No,No,No,0,2,No,1,35.1,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,5,mild,mild,moderate
+No,No,Yes,0,NA,No,1,46.3,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Other,Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,1,Slightly nervous,None,5,moderate,mild,moderate
+No,Yes,Yes,1,0,No,1,28.9,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,Yes,0,2,No,1,30.1,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Slightly nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,2,No,1,NA,stenosed,successful,Premenopausal bleeding,none,1,Other,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,5,7,moderate,moderate
+No,No,No,1,NA,No,1,18.3,not_stenosed,successful,NA,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,5,mild,mild,moderate
+No,No,No,0,2,No,1,27.5,not_stenosed,successful,Premenopausal bleeding,none,1,Other,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,5,moderate,mild,moderate
+No,Yes,No,0,1,Yes,1,35.6,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,mild,mild,moderate
+No,No,No,0,1,Yes,1,25.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,5,8,mild,moderate
+No,No,No,0,3,No,1,27.5,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Slightly nervous,Mild,5,mild,mild,moderate
+No,No,No,0,NA,No,1,NA,not_stenosed,none,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Very nervous,Mild,5,mild,mild,moderate
+No,No,No,0,3,Yes,1,35.9,not_stenosed,unsuccessful,Premenopausal bleeding,3 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,Very satisfied,Very nervous,2,Slightly nervous,Moderate,5,7,no_pain,moderate
+No,Yes,No,0,NA,No,1,27.7,not_stenosed,successful,NA,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,1,Slightly nervous,Mild,5,mild,mild,moderate
+Yes,No,No,0,2,No,1,26.8,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,no_pain,no_pain,moderate
+No,No,No,0,NA,No,1,NA,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,moderate,moderate,moderate
+No,No,No,0,0,No,1,22.6,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,no_pain,mild,moderate
+Yes,No,No,0,2,No,1,25.4,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,moderate,mild,moderate
+Yes,Yes,Yes,0,2,No,1,34.8,not_stenosed,successful,NA,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,1,Slightly nervous,None,6,mild,mild,moderate
+Yes,Yes,Yes,0,2,Yes,1,39.9,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,6,moderate,7,moderate
+Yes,No,Yes,0,NA,No,1,28.9,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,6,7,mild,moderate
+Yes,No,No,0,3,No,1,46.8,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,6,mild,mild,moderate
+No,Yes,Yes,0,3,No,1,41.5,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,6,moderate,mild,moderate
+No,No,Yes,0,5,No,1,29.6,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,6,moderate,mild,moderate
+No,No,Yes,0,2,No,1,26.4,not_stenosed,successful,Premenopausal bleeding,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,3,Not at all nervous,None,6,moderate,mild,moderate
+Yes,No,Yes,0,NA,No,1,27.4,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,6,moderate,mild,moderate
+No,Yes,Yes,0,NA,No,1,46.9,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Other,Hysteroscopic polypectomy,"Yes, definitely",Less,Satisfied,Very nervous,2,Did not receive,Discomfort,6,moderate,mild,moderate
+No,Yes,No,0,0,No,1,47.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,1,Did not receive,Discomfort,6,mild,mild,moderate
+No,No,Yes,0,NA,No,1,45.8,stenosed,successful,Premenopausal bleeding,3 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,2,Slightly nervous,Severe,6,moderate,mild,moderate
+No,Yes,No,1,0,No,1,34.5,not_stenosed,successful,NA,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Satisfied,Not nervous,2,Not at all nervous,None,6,mild,mild,moderate
+Yes,No,Yes,1,4,No,1,27,not_stenosed,successful,NA,2 ampules,2,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,NA,Not nervous,2,Not at all nervous,Severe,6,mild,no_pain,moderate
+Yes,No,Yes,0,4,Yes,1,37.9,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,2,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Severe,6,mild,moderate,moderate
+No,No,Yes,0,2,Yes,1,40.4,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Moderate,6,moderate,moderate,moderate
+Yes,No,Yes,0,2,No,1,23.9,not_stenosed,successful,NA,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,6,moderate,mild,moderate
+Yes,No,No,0,1,No,1,29.6,not_stenosed,successful,NA,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,6,mild,mild,moderate
+Yes,Yes,No,0,NA,No,1,37,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,6,8,mild,moderate
+Yes,No,No,1,3,Yes,1,32,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,6,moderate,mild,moderate
+Yes,Yes,No,0,NA,No,1,37,not_stenosed,none,NA,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,6,mild,mild,moderate
+No,Yes,Other drug,0,NA,No,1,NA,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,6,mild,mild,moderate
+No,No,No,0,NA,No,1,26.3,stenosed,successful,Other,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,6,no_pain,moderate,moderate
+No,No,No,1,NA,No,1,23.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,6,mild,mild,moderate
+No,No,No,0,0,No,1,27.5,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, probably",Less,Satisfied,Very nervous,2,Very nervous,Mild,6,mild,moderate,moderate
+No,No,No,0,3,No,1,22.7,stenosed,successful,NA,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,mild,no_pain,moderate
+No,No,Yes,0,NA,No,1,39.2,not_stenosed,successful,Premenopausal bleeding,none,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,None,6,mild,mild,moderate
+Yes,No,No,0,NA,No,1,30.9,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,6,mild,no_pain,moderate
+No,No,Yes,1,NA,No,1,30.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",NA,Very satisfied,Very nervous,2,Slightly nervous,Moderate,6,moderate,mild,moderate
+No,No,No,0,4,No,1,32.9,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,mild,mild,moderate
+No,No,No,0,0,No,1,20.5,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,6,moderate,mild,moderate
+No,No,Yes,0,NA,No,1,21.3,not_stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,6,mild,mild,moderate
+No,No,No,0,NA,No,1,23.2,not_stenosed,successful,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Did not receive,Discomfort,6,mild,mild,moderate
+No,No,No,0,2,No,1,28.7,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",Less,Satisfied,Not nervous,2,Not at all nervous,Discomfort,6,moderate,mild,moderate
+No,No,No,0,NA,No,1,40.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,6,mild,mild,moderate
+No,Yes,Yes,0,3,No,1,46.8,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,no_pain,mild,moderate
+Yes,No,Yes,1,3,Yes,1,23.4,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,mild,no_pain,moderate
+Yes,No,No,0,2,No,1,20,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Not nervous,1,Slightly nervous,Mild,6,moderate,mild,moderate
+Yes,No,Yes,0,4,No,1,35,stenosed,none,Postmenopausal bleeding/discharge,none,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,2,Not at all nervous,Discomfort,6,mild,mild,moderate
+Yes,Yes,Yes,0,NA,No,1,22.8,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,6,mild,mild,moderate
+No,No,No,0,0,No,1,25,stenosed,successful,Other,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,The same,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,6,moderate,moderate,moderate
+No,No,No,0,NA,No,NA,33.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,mild,moderate,moderate
+No,No,No,0,4,No,1,26.6,stenosed,successful,Premenopausal bleeding,none,0,Normal,Hysteroscopic polypectomy,"Yes, probably",More,Very satisfied,Very nervous,2,Slightly nervous,Mild,6,mild,7,moderate
+Yes,No,No,0,NA,No,1,29.4,not_stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,6,9,no_pain,moderate
+No,No,No,0,1,Yes,1,30.1,not_stenosed,successful,Other,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Not nervous,1,Not at all nervous,None,6,no_pain,moderate,moderate
+No,No,Yes,0,3,Yes,1,46.5,not_stenosed,successful,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Slightly nervous,2,Not at all nervous,Mild,6,mild,mild,moderate
+No,Yes,No,0,2,No,1,25.1,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Slightly nervous,1,Not at all nervous,Mild,6,mild,mild,moderate
+Yes,No,No,0,1,No,1,23.6,not_stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Did not receive,Moderate,6,moderate,mild,moderate
+No,No,No,0,2,No,1,25.6,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,The same,Satisfied,Very nervous,2,Did not receive,Discomfort,6,mild,mild,moderate
+No,Yes,No,0,3,No,1,35.3,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,moderate,mild,moderate
+No,No,No,0,2,No,1,28.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,1,Slightly nervous,Discomfort,6,mild,mild,moderate
+No,No,No,0,2,No,1,28.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,1,Slightly nervous,Discomfort,6,mild,mild,moderate
+No,No,No,1,NA,No,1,NA,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,Satisfied,Slightly nervous,2,Slightly nervous,Moderate,6,mild,mild,moderate
+No,No,No,0,3,Yes,1,24,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,Satisfied,Slightly nervous,2,Did not read,Moderate,6,moderate,mild,moderate
+No,Yes,No,0,2,Yes,1,36.8,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,Satisfied,Very nervous,3,Slightly nervous,Discomfort,6,moderate,mild,moderate
+No,No,Yes,0,3,Yes,1,21.5,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,1,Not at all nervous,Discomfort,6,no_pain,mild,moderate
+No,No,No,0,3,Yes,1,26.3,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,2,Not at all nervous,Discomfort,6,mild,mild,moderate
+No,No,Yes,0,0,No,1,28.6,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,6,mild,mild,moderate
+No,No,No,0,3,No,1,19.4,not_stenosed,none,Remove mirena/coil,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Not nervous,2,Not at all nervous,Discomfort,6,moderate,mild,moderate
+No,No,No,0,0,No,1,32,stenosed,successful,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Slightly nervous,Moderate,6,mild,mild,moderate
+No,No,Yes,0,1,No,1,24.1,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very unsatisfied,Very nervous,2,Slightly nervous,Moderate,6,moderate,7,moderate
+No,No,No,0,4,No,1,21.1,not_stenosed,successful,NA,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",Less,Satisfied,Not nervous,2,Not at all nervous,Discomfort,6,no_pain,no_pain,moderate
+No,No,Yes,0,3,No,1,22.9,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,6,moderate,mild,moderate
+Yes,No,Yes,0,NA,No,1,24.9,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,6,no_pain,mild,moderate
+No,No,No,0,NA,No,1,34.7,not_stenosed,successful,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,moderate,mild,moderate
+No,No,No,0,3,Yes,1,33,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Severe,6,moderate,moderate,moderate
+No,Yes,No,0,0,No,1,27,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Mild,6,moderate,moderate,moderate
+No,No,No,0,2,Yes,1,29.7,not_stenosed,none,Remove mirena/coil,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,3,Did not receive,Mild,6,moderate,mild,moderate
+Yes,Yes,Yes,0,2,No,1,37.7,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,6,mild,mild,moderate
+No,No,Yes,0,NA,No,1,32.4,stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,moderate,mild,moderate
+No,No,No,0,1,No,1,29.9,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Very nervous,2,Not at all nervous,Discomfort,6,7,moderate,moderate
+No,No,No,0,NA,No,1,26.8,stenosed,none,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,6,mild,mild,moderate
+No,No,No,1,2,Yes,1,28.5,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,6,no_pain,mild,moderate
+No,No,Yes,0,3,No,1,24.2,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,6,moderate,mild,moderate
+No,No,No,0,2,No,1,21.7,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,6,mild,mild,moderate
+No,No,No,0,2,No,1,25.2,stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Mild,6,mild,mild,moderate
+No,No,No,0,2,No,1,45.5,not_stenosed,successful,NA,3 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,The same,Very satisfied,Very nervous,2,Slightly nervous,Mild,6,moderate,no_pain,moderate
+No,No,Yes,1,NA,No,1,21.8,not_stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Did not read,Mild,6,moderate,mild,moderate
+No,Yes,No,0,NA,No,1,25.1,not_stenosed,successful,Premenopausal bleeding,3 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,6,no_pain,mild,moderate
+Yes,No,No,0,3,No,1,26.2,stenosed,none,NA,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,The same,NA,Very nervous,2,Did not read,Moderate,6,mild,mild,moderate
+No,No,No,0,NA,No,1,23.1,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,7,mild,mild,severe
+Yes,No,No,0,3,No,1,38.2,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,7,mild,mild,severe
+Yes,No,No,0,NA,No,1,36.1,not_stenosed,none,Postmenopausal bleeding/discharge,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,7,mild,mild,severe
+No,No,No,0,2,No,1,22.6,stenosed,none,Other,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,7,8,mild,severe
+No,No,No,0,NA,No,1,24.7,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,NA,Not nervous,2,Not at all nervous,Discomfort,7,mild,no_pain,severe
+No,No,No,0,6,No,1,22.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,None,7,mild,mild,severe
+Yes,No,No,0,2,No,1,26,stenosed,successful,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Slightly nervous,Mild,7,mild,mild,severe
+Yes,hysteroscopy - diagnostic,Yes,0,NA,No,1,29.6,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,1,Slightly nervous,Discomfort,7,mild,mild,severe
+Yes,No,Yes,0,NA,No,1,24.5,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Very nervous,2,Did not receive,Mild,7,moderate,mild,severe
+No,No,No,0,2,No,1,32.3,not_stenosed,none,Postmenopausal bleeding/discharge,NA,1,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Severe,7,8,mild,severe
+Yes,Yes,No,0,4,No,1,32.7,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,1,Not at all nervous,Discomfort,7,no_pain,mild,severe
+No,No,No,0,3,No,1,22,stenosed,successful,Other,1 ampule,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,7,mild,mild,severe
+No,No,Yes,0,4,No,1,26.6,not_stenosed,successful,Premenopausal bleeding,none,1,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Discomfort,7,no_pain,no_pain,severe
+No,No,Yes,0,NA,No,1,23,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,7,mild,mild,severe
+No,No,No,1,0,No,1,20.5,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Not nervous,3,Not at all nervous,Mild,7,mild,mild,severe
+Yes,No,Yes,0,0,Yes,1,24.2,stenosed,successful,Postmenopausal bleeding/discharge,3 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, probably",The same,Very satisfied,Very nervous,2,Slightly nervous,Discomfort,7,mild,mild,severe
+No,No,Yes,0,2,No,1,33.3,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Normal,Hysteroscopic polypectomy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,Moderate,7,mild,mild,severe
+No,No,No,0,2,Yes,1,21.2,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,7,moderate,moderate,severe
+No,No,No,0,NA,No,1,32,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,NA,Slightly nervous,2,Slightly nervous,Mild,7,moderate,no_pain,severe
+No,No,No,0,4,Yes,1,27.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,7,mild,no_pain,severe
+No,No,No,0,3,Yes,1,NA,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,7,moderate,moderate,severe
+Yes,No,No,0,NA,No,1,45,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,7,moderate,moderate,severe
+No,Yes,No,0,0,No,1,31.2,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,7,mild,mild,severe
+No,No,Yes,0,NA,No,NA,31.2,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,7,moderate,mild,severe
+No,No,Yes,0,NA,No,1,27.9,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,7,moderate,mild,severe
+Yes,No,Yes,0,3,No,1,29.8,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,7,no_pain,mild,severe
+No,No,Yes,0,2,No,1,19.9,not_stenosed,successful,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Very nervous,2,Not at all nervous,None,7,moderate,moderate,severe
+No,No,No,0,2,No,1,25.9,not_stenosed,successful,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Very nervous,2,Slightly nervous,Mild,7,mild,mild,severe
+No,No,Yes,0,2,No,1,25.7,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Very nervous,2,Slightly nervous,Discomfort,7,moderate,mild,severe
+No,No,No,0,2,No,1,29.3,not_stenosed,none,Remove mirena/coil,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Mild,7,moderate,moderate,severe
+No,No,Yes,0,2,No,1,NA,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,None,7,mild,moderate,severe
+Yes,Yes,No,0,3,No,1,22.1,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,Very satisfied,Not nervous,2,Not at all nervous,Severe,7,no_pain,no_pain,severe
+No,No,Yes,0,3,Yes,1,27.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Hysteroscopic polypectomy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,7,moderate,mild,severe
+No,No,Yes,1,0,No,1,28.5,not_stenosed,successful,Premenopausal bleeding,1 ampule,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,2,Slightly nervous,None,7,moderate,moderate,severe
+No,No,No,1,2,Yes,1,23.2,stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Discomfort,7,mild,mild,severe
+No,No,Yes,1,NA,No,1,23.6,stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,2,Slightly nervous,Discomfort,7,moderate,mild,severe
+No,Yes,Yes,0,2,No,1,23.7,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,7,moderate,7,severe
+No,No,No,0,4,Yes,1,27.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Very nervous,2,Not at all nervous,None,7,mild,no_pain,severe
+Yes,No,No,0,0,No,1,42.7,not_stenosed,successful,Other,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",NA,Very satisfied,Not nervous,1,NA,Discomfort,7,mild,mild,severe
+No,No,Yes,0,2,No,1,27.5,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Very nervous,2,Very nervous,Severe,7,mild,mild,severe
+Yes,Yes,Yes,0,1,No,1,22.7,not_stenosed,successful,NA,2 ampules,1,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",Less,NA,Slightly nervous,1,Slightly nervous,Mild,7,mild,mild,severe
+Yes,No,No,0,NA,No,1,30.2,not_stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Normal,Hysteroscopic polypectomy,"Yes, probably",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,7,moderate,mild,severe
+No,No,No,0,4,No,1,47.2,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,2,Very nervous,Discomfort,7,mild,no_pain,severe
+No,No,No,0,1,No,1,30.5,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,7,mild,mild,severe
+No,No,No,0,2,No,1,20.8,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",The same,Very satisfied,Very nervous,2,Did not read,Discomfort,7,mild,moderate,severe
+No,Yes,No,1,0,No,1,19.3,stenosed,none,Other,1 ampule,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Unsatisfied,Slightly nervous,2,Did not receive,Moderate,7,mild,mild,severe
+No,Yes,No,0,1,Yes,1,22.3,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,7,8,no_pain,severe
+No,No,No,0,1,No,1,37.4,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,7,moderate,mild,severe
+No,No,No,0,NA,No,1,28,not_stenosed,none,Remove mirena/coil,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Very nervous,3,Not at all nervous,Discomfort,7,mild,mild,severe
+No,No,No,0,2,Yes,1,26.2,not_stenosed,none,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Didn't know what to expect,Satisfied,Very nervous,2,Slightly nervous,Severe,7,moderate,mild,severe
+Yes,No,Yes,0,1,No,1,29.3,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Mild,7,mild,mild,severe
+No,No,No,0,2,No,1,24.4,not_stenosed,none,NA,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,7,mild,mild,severe
+No,Yes,No,0,2,No,1,19.2,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Failed Op,Diagnostic hysteroscopy and biopsy,Not sure,Less,Satisfied,Very nervous,3,Slightly nervous,Severe,7,mild,mild,severe
+No,No,No,1,0,No,1,18.7,not_stenosed,none,NA,1 ampule,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Slightly nervous,Moderate,7,moderate,mild,severe
+No,Yes,No,1,6,Yes,1,25.4,not_stenosed,none,Postmenopausal bleeding/discharge,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,7,mild,mild,severe
+No,No,No,0,0,No,1,34.8,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Did not receive,Moderate,7,moderate,mild,severe
+No,Yes,Yes,0,4,No,NA,38.5,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Very nervous,3,Did not read,None,7,moderate,moderate,severe
+No,No,No,1,0,No,1,41.6,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Slightly nervous,2,Slightly nervous,Discomfort,7,mild,moderate,severe
+No,No,Yes,0,2,No,1,32.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Very nervous,2,Slightly nervous,None,7,mild,mild,severe
+No,No,Yes,0,1,No,1,19,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,1,Not at all nervous,Discomfort,7,moderate,mild,severe
+Yes,Yes,No,0,2,No,1,35.9,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Slightly nervous,2,Not at all nervous,Severe,7,mild,8,severe
+No,No,No,0,0,No,1,35.2,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,7,7,no_pain,severe
+No,No,Other drug,0,2,No,1,36,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,7,7,moderate,severe
+No,Yes,No,0,NA,No,1,27.7,not_stenosed,none,Other,3 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,7,mild,mild,severe
+Yes,No,No,0,7,No,1,33,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Did not receive,Discomfort,8,mild,moderate,severe
+No,No,Yes,0,NA,No,1,22.8,not_stenosed,successful,Other,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,8,moderate,moderate,severe
+Yes,No,No,0,5,No,1,31.8,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,1,Slightly nervous,Discomfort,8,mild,mild,severe
+Yes,No,Yes,0,4,Yes,1,21.9,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,Not sure,Less,Satisfied,Not nervous,2,Not at all nervous,Discomfort,8,mild,mild,severe
+No,No,No,0,3,No,1,23.4,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Not nervous,2,Not at all nervous,Moderate,8,8,8,severe
+Yes,No,No,0,2,No,1,20,not_stenosed,successful,Other,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Slightly nervous,2,Slightly nervous,Severe,8,mild,mild,severe
+Yes,No,No,0,4,No,1,24.5,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,8,mild,mild,severe
+Yes,No,Yes,0,2,No,1,26.2,not_stenosed,none,Other,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,8,mild,mild,severe
+Yes,No,Yes,0,3,No,1,20,stenosed,successful,Postmenopausal bleeding/discharge,2 ampules,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,Moderate,8,mild,moderate,severe
+Yes,No,No,0,2,No,1,45.8,not_stenosed,successful,NA,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,NA,Very nervous,2,Slightly nervous,Discomfort,8,moderate,moderate,severe
+Yes,No,No,0,2,No,1,29,not_stenosed,successful,Other,none,1,Polyp(s),Hysteroscopic polypectomy,"No, definitely",Less,Unsatisfied,Slightly nervous,2,Did not receive,Moderate,8,moderate,mild,severe
+Yes,Yes,Yes,0,3,No,1,22.9,not_stenosed,successful,NA,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",Less,Very satisfied,Slightly nervous,1,Not at all nervous,Mild,8,mild,mild,severe
+Yes,No,No,0,3,No,1,33.2,stenosed,none,Premenopausal bleeding,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Discomfort,8,mild,moderate,severe
+No,No,No,0,NA,No,1,22.8,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Slightly nervous,Mild,8,no_pain,mild,severe
+No,No,No,0,2,No,1,18.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,8,no_pain,no_pain,severe
+No,Yes,Yes,0,2,No,1,30,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Not at all nervous,Mild,8,moderate,mild,severe
+No,No,No,0,2,No,1,22.6,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Not nervous,2,Did not read,Severe,8,mild,mild,severe
+No,No,No,0,1,Yes,1,27.6,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,NA,Slightly nervous,2,Slightly nervous,Moderate,8,mild,mild,severe
+No,No,Yes,1,4,Yes,1,38.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,2,Not at all nervous,Mild,8,mild,mild,severe
+No,Yes,Yes,1,0,No,1,23.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Moderate,8,moderate,mild,severe
+No,No,Yes,0,0,No,1,20.6,stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",The same,Satisfied,Not nervous,2,Slightly nervous,Discomfort,8,mild,mild,severe
+Yes,No,Yes,1,NA,No,1,23.8,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Very nervous,3,Not at all nervous,Discomfort,8,mild,moderate,severe
+No,No,Yes,0,NA,No,1,29.4,stenosed,none,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,8,moderate,mild,severe
+No,No,Yes,0,3,No,1,26.5,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Slightly nervous,Severe,8,mild,moderate,severe
+No,No,Yes,0,2,No,1,25,not_stenosed,none,Remove mirena/coil,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Slightly nervous,2,Did not receive,Discomfort,8,mild,mild,severe
+No,No,No,1,2,Yes,1,23.5,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,8,8,no_pain,severe
+No,No,No,0,4,No,1,27.8,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,None,8,mild,mild,severe
+Yes,No,No,1,0,No,1,36.8,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",Less,Very unsatisfied,Slightly nervous,2,Slightly nervous,Moderate,8,mild,mild,severe
+No,No,No,0,3,No,1,59.8,not_stenosed,none,Premenopausal bleeding,none,1,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,2,Did not receive,Moderate,8,mild,mild,severe
+No,Yes,Yes,0,2,No,1,29.9,stenosed,unsuccessful,Postmenopausal bleeding/discharge,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Mild,8,moderate,mild,severe
+No,No,Yes,0,2,Yes,1,30.3,stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very satisfied,Slightly nervous,2,Not at all nervous,Mild,8,mild,mild,severe
+No,No,No,1,1,Yes,1,44.1,not_stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Very nervous,2,Very nervous,Discomfort,8,moderate,moderate,severe
+No,No,No,0,3,Yes,1,28.6,stenosed,unsuccessful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Not nervous,2,Not at all nervous,Mild,8,mild,mild,severe
+No,No,No,1,3,Yes,1,33.3,stenosed,successful,Premenopausal bleeding,3 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,8,no_pain,mild,severe
+No,Yes,Yes,0,5,No,1,27.2,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",Less,Unsatisfied,Very nervous,1,Very nervous,Moderate,8,7,mild,severe
+Yes,No,Yes,0,2,No,1,22.3,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Normal,Diagnostic hysteroscopy and biopsy,"No, definitely",Less,NA,Slightly nervous,2,Slightly nervous,Severe,8,mild,no_pain,severe
+No,Yes,No,1,2,Yes,1,29.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,8,moderate,no_pain,severe
+No,No,No,0,3,No,1,40.1,not_stenosed,successful,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Not at all nervous,Moderate,8,moderate,moderate,severe
+No,No,No,0,0,Yes,1,44.2,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Very nervous,1,Not at all nervous,Moderate,8,moderate,mild,severe
+No,No,No,0,2,No,1,22.6,not_stenosed,none,Premenopausal bleeding,2 ampules,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Severe,8,mild,no_pain,severe
+No,No,No,0,0,Yes,1,NA,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,Moderate,8,mild,mild,severe
+Yes,No,Yes,0,1,No,1,26.8,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Satisfied,Not nervous,2,Not at all nervous,Moderate,8,mild,mild,severe
+Yes,Yes,No,0,NA,No,1,23.5,stenosed,unsuccessful,Postmenopausal bleeding/discharge,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,8,mild,mild,severe
+No,No,No,0,1,No,1,50.8,not_stenosed,none,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Not nervous,2,Slightly nervous,Moderate,8,mild,mild,severe
+No,Yes,Yes,1,NA,No,1,40.6,stenosed,successful,NA,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Very nervous,1,Slightly nervous,Moderate,8,moderate,mild,severe
+No,Yes,No,0,NA,No,1,32.4,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Slightly nervous,1,Not at all nervous,Moderate,8,mild,mild,severe
+Yes,No,No,0,NA,No,1,24.1,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Moderate,9,moderate,mild,severe
+Yes,No,No,0,5,No,1,32.3,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Slightly nervous,2,Not at all nervous,Discomfort,9,moderate,mild,severe
+No,No,Yes,0,4,No,1,26.1,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,9,moderate,mild,severe
+No,No,No,0,NA,No,1,34.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Not at all nervous,Moderate,9,moderate,mild,severe
+No,No,No,0,1,No,1,19.7,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,9,7,mild,severe
+No,No,Yes,0,2,No,1,26.5,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,Not sure,Less,Very satisfied,Very nervous,1,Slightly nervous,Discomfort,9,7,mild,severe
+No,Yes,No,0,2,Yes,1,34.3,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Very nervous,1,Very nervous,Discomfort,9,mild,no_pain,severe
+No,No,Yes,1,0,No,1,56.5,not_stenosed,successful,Premenopausal bleeding,2 ampules,2,Normal,Hysteroscopic polypectomy,"No, definitely",Less,Satisfied,Not nervous,2,Not at all nervous,Moderate,9,moderate,mild,severe
+No,No,Yes,0,0,No,1,31.9,stenosed,none,Postmenopausal bleeding/discharge,2 ampules,0,Failed Op,Diagnostic hysteroscopy and biopsy,"No, definitely",The same,Satisfied,Very nervous,2,Slightly nervous,Discomfort,9,9,mild,severe
+Yes,No,Yes,0,3,No,1,50.2,not_stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,1,Did not receive,Discomfort,NA,mild,mild,NA
+Yes,No,No,1,1,No,1,23.2,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Satisfied,Very nervous,2,Very nervous,Discomfort,NA,mild,mild,NA
+Yes,No,Yes,0,2,Yes,1,27.7,stenosed,unsuccessful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, probably",The same,Very unsatisfied,Slightly nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+Yes,No,No,0,2,No,1,32.6,not_stenosed,successful,Postmenopausal bleeding/discharge,none,0,Atrophic,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Slightly nervous,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,NA,NA,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,NA,NA,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Very nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+No,Yes,Yes,0,NA,No,1,21.3,stenosed,none,Premenopausal bleeding,none,1,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,Yes,No,0,2,No,1,53.3,not_stenosed,successful,Other,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,No,0,4,No,1,21.8,not_stenosed,none,Other,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,NA,mild,mild,NA
+No,No,Yes,0,NA,No,1,23.5,stenosed,successful,Other,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Premenopausal bleeding,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,No,0,NA,No,1,24.3,not_stenosed,none,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Other,NA,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Premenopausal bleeding,none,0,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,Yes,No,0,0,No,1,39.4,not_stenosed,none,Postmenopausal bleeding/discharge,none,1,Polyp(s),Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Very satisfied,Very nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+No,Yes,Yes,0,1,No,1,22.1,not_stenosed,none,NA,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,No,NA,NA,not_stenosed,successful,Premenopausal bleeding,2 ampules,1,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,NA,mild,mild,NA
+No,No,No,1,1,Yes,1,28.3,stenosed,successful,Postmenopausal bleeding/discharge,1 ampule,1,Polyp(s),Hysteroscopic polypectomy,"Yes, definitely",The same,Satisfied,Slightly nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+Yes,No,No,0,3,No,NA,NA,not_stenosed,none,Postmenopausal bleeding/discharge,NA,0,Polyp(s),Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Polyp(s),Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,19.7,not_stenosed,none,Remove mirena/coil,none,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,1,NA,No,1,32.6,not_stenosed,none,Premenopausal bleeding,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,"No, definitely",NA,Satisfied,Slightly nervous,2,Slightly nervous,NA,NA,mild,mild,NA
+No,No,No,0,0,No,1,NA,not_stenosed,none,NA,none,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,No,0,NA,No,NA,NA,not_stenosed,none,NA,NA,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Not nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+No,No,No,0,3,No,1,35.6,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,24.7,stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Satisfied,Very nervous,2,Slightly nervous,NA,NA,mild,mild,NA
+No,No,Yes,0,1,No,1,28.7,not_stenosed,none,NA,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,Yes,1,20.8,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,Yes,0,2,Yes,1,20.5,stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,3,No,1,27.7,not_stenosed,successful,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,3,No,1,34.3,stenosed,successful,Postmenopausal bleeding/discharge,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,Yes,Yes,0,0,No,1,40.6,not_stenosed,successful,NA,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,NA,not_stenosed,none,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,43.5,not_stenosed,none,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,No,0,NA,No,1,NA,not_stenosed,none,NA,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Slightly nervous,2,Slightly nervous,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,successful,NA,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+Yes,No,No,0,NA,No,1,NA,not_stenosed,none,Postmenopausal bleeding/discharge,NA,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Very satisfied,Slightly nervous,2,Slightly nervous,NA,NA,mild,mild,NA
+No,Yes,Yes,1,NA,No,1,26.8,not_stenosed,none,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,Yes,No,0,1,No,1,NA,not_stenosed,none,NA,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,No,1,29.2,not_stenosed,successful,Postmenopausal bleeding/discharge,none,1,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,Yes,No,1,2,Yes,1,29,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,NA,2,Not at all nervous,NA,NA,mild,mild,NA
+No,No,No,0,4,No,1,28.9,stenosed,successful,Other,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,Yes,Yes,1,NA,No,NA,NA,stenosed,none,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,22.6,not_stenosed,none,Other,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,Yes,1,NA,No,1,NA,not_stenosed,none,Remove mirena/coil,none,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,1,1,Yes,1,21.5,not_stenosed,none,Other,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, probably",More,Very satisfied,Slightly nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+Yes,Yes,Yes,0,2,No,1,21.7,not_stenosed,none,Postmenopausal bleeding/discharge,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,No,1,33.4,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+No,No,Yes,0,3,Yes,1,32.7,not_stenosed,none,Remove mirena/coil,2 ampules,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,1,No,1,23,stenosed,none,Premenopausal bleeding,none,0,Normal,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Slightly nervous,NA,NA,mild,mild,NA
+No,No,No,0,3,No,1,NA,not_stenosed,none,Postmenopausal bleeding/discharge,2 ampules,2,Normal,Hysteroscopic polypectomy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,NA,not_stenosed,none,NA,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,Yes,0,NA,No,1,22.2,not_stenosed,none,Premenopausal bleeding,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,Yes,0,NA,No,1,NA,not_stenosed,none,Postmenopausal bleeding/discharge,NA,0,Normal,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,No,1,33.4,not_stenosed,successful,NA,1 ampule,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,2,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,NA,not_stenosed,none,NA,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,1,No,1,NA,not_stenosed,none,NA,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,0,No,1,29.4,not_examined,none,Other,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,No,1,27.6,not_stenosed,none,Premenopausal bleeding,2 ampules,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,Yes,0,NA,No,1,26.2,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,1,NA,No,1,32.3,not_stenosed,none,NA,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",Less,Satisfied,Not nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+No,No,No,0,1,Yes,1,25,stenosed,none,Premenopausal bleeding,3 ampules,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,2,Not at all nervous,NA,NA,mild,mild,NA
+No,No,No,0,2,No,1,37.1,stenosed,none,Postmenopausal bleeding/discharge,none,0,Failed Op,Diagnostic hysteroscopy and biopsy,"No, definitely",The same,Satisfied,Very nervous,1,Very nervous,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,1,29.4,not_stenosed,none,Premenopausal bleeding,none,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,1,No,1,28,not_stenosed,none,Premenopausal bleeding,1 ampule,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,Yes,0,2,No,1,30.2,stenosed,none,NA,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,Yes,0,3,No,1,26.2,stenosed,none,Postmenopausal bleeding/discharge,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,No,0,0,No,1,27,stenosed,none,Postmenopausal bleeding/discharge,1 ampule,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Satisfied,Slightly nervous,2,Did not read,NA,NA,mild,mild,NA
+No,Yes,No,0,3,Yes,1,49.6,not_stenosed,none,Postmenopausal bleeding/discharge,none,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,No,0,NA,No,1,56,stenosed,none,Postmenopausal bleeding/discharge,NA,0,Failed Op,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+Yes,No,No,0,NA,No,1,19.9,not_stenosed,none,Other,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,Discomfort,NA,mild,mild,NA
+No,No,No,0,NA,No,1,29.9,not_stenosed,successful,Premenopausal bleeding,1 ampule,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,Yes,0,0,No,1,24.6,not_stenosed,successful,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Premenopausal bleeding,none,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,Yes,0,2,No,1,NA,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,Other,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,1,No,1,26,not_stenosed,successful,NA,1 ampule,1,Other,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Slightly nervous,2,Slightly nervous,None,NA,mild,mild,NA
+No,Yes,No,1,NA,No,1,29.9,not_stenosed,none,Premenopausal bleeding,none,0,Failed Op,Diagnostic hysteroscopy and biopsy,"Yes, definitely",The same,Very satisfied,Slightly nervous,3,Did not receive,NA,NA,mild,mild,NA
+Yes,No,No,0,NA,No,NA,NA,not_stenosed,none,NA,NA,0,Other,Diagnostic hysteroscopy and biopsy,"Yes, probably",Less,Very satisfied,Very nervous,1,Slightly nervous,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,NA,NA,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,NA,NA,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,NA,NA,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,No,1,26.1,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,1,Yes,1,47.8,not_stenosed,none,Premenopausal bleeding,NA,0,NA,Diagnostic hysteroscopy and biopsy,"Yes, definitely",More,Very satisfied,Not nervous,1,Not at all nervous,None,NA,mild,mild,NA
+No,No,No,0,NA,No,NA,NA,not_stenosed,none,Premenopausal bleeding,NA,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,4,Yes,NA,21.8,not_stenosed,none,Premenopausal bleeding,2 ampules,1,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
+No,No,No,0,2,No,1,26.8,not_stenosed,successful,Premenopausal bleeding,2 ampules,0,NA,Diagnostic hysteroscopy and biopsy,NA,NA,NA,NA,3,NA,NA,NA,mild,mild,NA
